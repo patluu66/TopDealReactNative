@@ -16,39 +16,33 @@ A step by step series of examples that tell you have to get a development env ru
 npm install
 react-native run-ios
 
-# Screenshoot:
-![alt text](http://url/to/img.png)
-
-## Running the tests
-
-
-### Break down into end to end tests
+### Screenshoot:
+![alt text](https://github.com/patluu66/TopDealReactNative/blob/master/image/Screenshoot1.png?raw=true)
+![alt text](https://github.com/patluu66/TopDealReactNative/blob/master/image/Screenshoot2.png?raw=true)
 
 
-### And coding style tests
+
+### Deployment
+
+To download the app on Google Play Store:
+https://play.google.com/store/apps/details?id=com.plcorporation.topdeal
+
+### Built With
 
 
-## Deployment
-
-# To download the app on Google Play Store:
-# https://play.google.com/store/apps/details?id=com.plcorporation.topdeal
-
-## Built With
+### Contributing
 
 
-## Contributing
+### Versioning
 
 
-## Versioning
-
-
-## Authors
+### Authors
 
 Patrick Luu
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 

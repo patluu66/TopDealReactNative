@@ -1,0 +1,3 @@
+rootProject.name = 'Deal2Good'
+
+include ':app'

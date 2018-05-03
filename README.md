@@ -17,8 +17,8 @@ npm install
 react-native run-ios
 
 ### Screenshoot:
-![alt text](https://github.com/patluu66/TopDealReactNative/blob/master/image/Screenshoot1.png?raw=true)
-![alt text](https://github.com/patluu66/TopDealReactNative/blob/master/image/Screenshoot2.png?raw=true)
+![alt text](https://github.com/patluu66/TopDealReactNative/blob/master/image/Screenshoot1.png?raw=true | width=100)
+![alt text](https://github.com/patluu66/TopDealReactNative/blob/master/image/Screenshoot2.png?raw=true | width=100)
 
 
 
